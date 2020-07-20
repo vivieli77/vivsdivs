@@ -138,3 +138,20 @@ body {
 .post.full .date {
   margin-bottom: 2em;
 }
+body::-webkit-scrollbar {
+    width: 10px;               /* width of the entire scrollbar */
+}
+body::-webkit-scrollbar-track {
+    background: antiquewhite;        /* color of the tracking area */
+}
+body::-webkit-scrollbar-thumb {
+    background-color: #6F4926;    /* color of the scroll thumb */
+    border-radius: 20px;       /* roundness of the scroll thumb */
+    border: 3px solid antiquewhite;  /* creates padding around scroll thumb */
+}
+#abtimage {
+    flex: 1 0 0;
+    img {
+      max-height: 75vh;
+    }
+  }
