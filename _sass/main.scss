@@ -32,6 +32,19 @@ body {
   flex: 1 0 auto;
   padding: 1em;
 }
+#gallery {
+    display: flex;
+    justify-content: flex-start;
+    max-width:75vw;
+}
+#col {
+    flex: 1 0 0;
+    margin-right: 2em;
+    img{
+        margin: 1em 0em;
+        max-width: 100%;
+    }
+}
 #text {
   color: #6F4926;
   flex: 1.7 0 0;
@@ -96,7 +109,7 @@ body {
 #content {
   max-width: 60em;
   margin: auto;
-  padding: 1em;
+  padding: 2em;
 }
 #kevin {
   font-size: 3.2rem;
@@ -134,7 +147,6 @@ body {
   color: #6F4926;
   margin-bottom: 0.2em;
 }
-
 .post.full .date {
   margin-bottom: 2em;
 }
@@ -154,4 +166,4 @@ body::-webkit-scrollbar-thumb {
     img {
       max-height: 75vh;
     }
-  }
+}
