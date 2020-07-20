@@ -18,6 +18,7 @@ html, body {
 }
 body {
   background-color: antiquewhite;
+  margin-right: calc(-1 * (100vw - 100%));
 }
 .current {
     text-decoration: underline;
