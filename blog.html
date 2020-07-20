@@ -2,13 +2,36 @@
 layout: default
 title: Blog
 ---
-<h1>Latest Posts</h1>
+<h1 id="kevin">Latest Posts</h1>
 
-<ul>
-    {% for post in site.posts %}
-        <li>
-            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-            {{ post.excerpt }}
-        </li>
-    {% endfor %}
-</ul>
+<div id="tags">
+  {% for tag in site.tags %}
+    <span onclick="filter(event)" class="filter">{{tag[0] | upcase}}</span>
+  {% endfor %}
+</div>
+
+{% for post in site.posts %}
+    <div class="post tag-{{ post.tags | join: ' tag-'}}">
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <p class="date">{{ post.date | date: '%b %d, %Y' | upcase }}</p>
+      <div class="excerpt">{{ post.excerpt }}</div>
+    </div>
+{% endfor %}
+
+<script>
+  function filter(event) {
+    var tag = event.target.innerText
+    var style = document.createElement("style")
+    document.head.appendChild(style)
+    if (document.getElementsByClassName("selected").length > 0 && event.target == document.getElementsByClassName("selected")[0]){
+      style.sheet.insertRule(".post{display:block;}", style.sheet.cssRules.length)
+      document.getElementsByClassName("selected")[0].classList.remove("selected")
+      return
+    }
+    style.sheet.insertRule(".post{display:none;}", style.sheet.cssRules.length)
+    style.sheet.insertRule(".tag-" + tag.toLowerCase() + "{display:block;}", style.sheet.cssRules.length)
+    if (document.getElementsByClassName("selected").length > 0)
+    {document.getElementsByClassName("selected")[0].classList.remove("selected")}
+    event.target.classList.add("selected")
+  }
+</script>
