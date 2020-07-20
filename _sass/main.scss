@@ -19,6 +19,7 @@ html, body {
 body {
   background-color: antiquewhite;
   margin-right: calc(-1 * (100vw - 100%));
+  overflow-x: hidden on body
 }
 .current {
     text-decoration: underline;
