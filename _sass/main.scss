@@ -55,17 +55,61 @@ body {
     max-width: 100%;
   }
 }
-#journalism {
-  display: block;
+#portfolio {
   margin:auto;
   justify-content: center;
-  columns: 4;
   max-width:80em;
-  column-gap: 2em;
-  .article{
-    margin: 1em 0em;
-    img {
-      max-width: 100%;
+  display: block;
+  .item {display: none;}
+  .journalism-container{
+    display: block;
+    columns: 3;
+    column-gap: 2em;
+    .journalism {
+      font-family: Manrope;
+      font-style: normal;
+      color: #6F4926;
+      font-size: 0.95em;
+      h2{
+        a{
+          text-decoration: none;
+          font-family: Playfair Display;
+          font-style: normal;
+          color: #6F4926;
+          font-size: 0.95em;
+          } 
+          margin: 0.5em 0 0.25em 0;
+        }
+      .date {
+        margin-bottom: 0.5em;
+      }
+      margin-bottom: 3em;
+      &:last-child {
+        margin-bottom: 0em;
+      }
+      break-inside: avoid;
+      img {
+        max-width: 100%;
+      }
+    }
+  }
+  .poetry-container {
+    columns: 2;
+    column-gap: 2em;
+    .poetry {
+      text-align: center;
+      font-family: Manrope;
+      font-style: normal;
+      font-size: 0.95em;
+      color: #6F4926;
+      break-inside: avoid;
+      margin: 0 0 3em 0;
+      h1 {
+        margin-top: 0;
+        font-family: Playfair Display;
+        font-style: normal;
+        color: #6F4926;
+      }
     }
   }
 }
@@ -121,10 +165,6 @@ body {
       font-size: 1.2em;
     }
     margin-bottom: 0.2em;
-  }
-  .date{
-    font-style: italic;
-    margin: 0;
   }
   .excerpt p:first-child {
     margin-top: 0.25em;
@@ -218,4 +258,22 @@ body::-webkit-scrollbar-thumb {
 .caption {
   text-align: center;
   font-size: 0.85em;
+}
+.date {
+  font-style: italic;
+  margin: 0;
+}
+.portfolio-filter {
+  font-family: Playfair Display;
+  font-style: normal;
+  font-size: 4em;
+  margin-right: 1em;
+  cursor: pointer;
+  &:last-child {
+    margin-right: 0;
+  }
+  &.selected {
+    background-color:#d6b890;
+    color: #6F4926;
+  }
 }
