@@ -1,8 +1,6 @@
 <nav>
-    <img src="/assets/logolong.png">
-    <!span id="tabs">
+    <a id="logo" href="/index.html"><img src="/assets/logolong.png"></a>
         {% for item in site.data.navigation %}
-            <a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.name }}</a>
+        <a class="pages {% if page.url == item.link %}current{% endif %}" href="{{ item.link }}">{{ item.name }}</a>
         {% endfor %}
-    <!/span>
 </nav>
