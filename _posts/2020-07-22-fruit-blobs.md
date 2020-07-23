@@ -15,3 +15,6 @@ Join my <a class="bloglink" href="https://discord.gg/AA2pvSU">Discord server</a>
 <img class="smallblogimage" src="/assets/blobcitrus.png">
 <div class="caption">An embarrassed <b>:blobgrapefruit:</b>, cool <b>:bloblemon:</b>, and zesty <b>:bloborange:</b>.</div>
 
+<br>
+<img class="smallblogimage" src="/assets/blobsuggestive.png">
+<div class="caption">Suggestive <b>:blobergine:</b> and <b>:blobpeach:</b>.
