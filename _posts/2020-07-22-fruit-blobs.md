@@ -7,7 +7,11 @@ A dear friend of mine graced me with a Discord Nitro gift for my birthday month 
 
 Join my <a class="bloglink" href="https://discord.gg/AA2pvSU">Discord server</a> and use these blob emojis for your self (global use only available for Nitro users)! Additionally, my blobs are copyrighted by Blob Hub Studios. Join the <a class="bloglink" href="https://discord.gg/yATKMY8">larger network</a>, too, which is home to over 12,000 unique blobs. Since submitting this pack, I've been named a Blob Designer as part of the Blob Hub Staff. Below are some of my favorite emojis I've created!
 
+<br>
 <img class="smallblogimage" src="/assets/blobberries.png">
+<div class="caption"><b>:blobraspberry:</b> feeling loved and <b>:bloblackberry:</b> rolling its eyes. Twins with very different personalities!</div>
 
+<br>
 <img class="smallblogimage" src="/assets/blobcitrus.png">
+<div class="caption">An embarrassed <b>:blobgrapefruit:</b>, cool <b>:bloblemon:</b>, and zesty <b>:bloborange:</b>.</div>
 

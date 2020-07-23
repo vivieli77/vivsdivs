@@ -3,16 +3,42 @@ layout: default
 title: Gallery
 ---
 <h1 class="kevin">GALLERY</h1>
-<div id="gallery">
-    <img src="/assets/flowerdenim.jpg">
-    <img src="/assets/blobberries.png">
-    <img src="/assets/kev.png">
-    <img src="/assets/rafiza.png">
-    <img src="/assets/brekkie.jpg">
-    <img src="/assets/depop.jpg">
-    <img src="/assets/yuyu.png">
-    <img src="/assets/mintchip.jpg">
-    <img src="/assets/daddys_card.png">
-    <img src="/assets/black-lives-mather.png">
-    <img src="/assets/blobcitrus.png">
+<div id="tags2">
+    <span onclick="filter(event)" class="filter">ART</span>
+    <span onclick="filter(event)" class="filter">CALLIGRAPHY</span>
+    <span onclick="filter(event)" class="filter">EMBROIDERY</span>
+    <span onclick="filter(event)" class="filter">LIFESTYLE</span>
 </div>
+<div id="gallery">
+    <img class="gal tag-embroidery" src="/assets/flowerdenim.jpg">
+    <img class="gal tag-art tag-calligraphy" src="/assets/blobberries.png">
+    <img class="gal tag-art" src="/assets/rafiza.png">
+    <img class="gal tag-art" src="/assets/kev.png">
+    <img class="gal tag-art" src="/assets/black-lives-mather.png">
+    <img class="gal tag-lifestyle" src="/assets/brekkie.jpg">
+    <img class="gal tag-lifestyle" src="/assets/depop.jpg">
+    <img class="gal tag-art" src="/assets/yuyu.png">
+    <img class="gal tag-lifestyle" src="/assets/mintchip.jpg">
+    <img class="gal tag-calligraphy tag-art" src="/assets/daddys_card.png">
+    <img class="gal tag-lifestyle" src="/assets/yellow roses.jpg">
+    <img class="gal tag-lifestyle" src="/assets/sunrise.jpg">
+    <img class="gal tag-lifestyle" src="/assets/drivethru.jpg">
+    <img class="gal tag-art tag-calligraphy" src="/assets/blobcitrus.png">
+</div>
+<script>
+    function filter(event) {
+      var tag = event.target.innerText
+      var style = document.createElement("style")
+      document.head.appendChild(style)
+      if (document.getElementsByClassName("selected").length > 0 && event.target == document.getElementsByClassName("selected")[0]){
+        style.sheet.insertRule(".gal{display:block;}", style.sheet.cssRules.length)
+        document.getElementsByClassName("selected")[0].classList.remove("selected")
+        return
+      }
+      style.sheet.insertRule(".gal{display:none;}", style.sheet.cssRules.length)
+      style.sheet.insertRule(".tag-" + tag.toLowerCase() + "{display:block;}", style.sheet.cssRules.length)
+      if (document.getElementsByClassName("selected").length > 0)
+      {document.getElementsByClassName("selected")[0].classList.remove("selected")}
+      event.target.classList.add("selected")
+    }
+  </script>

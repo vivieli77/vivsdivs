@@ -51,8 +51,11 @@ body {
   max-width:70em;
   column-gap: 2em;
   img{
-    margin: 1em 0em;
+    margin: 0em 0em 2em 0em;
     max-width: 100%;
+    &:last-child {
+      margin-bottom: 0;
+    }
   }
 }
 #portfolio {
@@ -262,6 +265,29 @@ body {
   font-size: 0.8em;
   color: #6F4926;
   margin: 0em 0em 4em 0em;
+  text-align: center;
+  .filter{
+    margin-right: 0.3em;
+    border: 1px solid #6F4926;
+    box-sizing: border-box;
+    border-radius: 15px;
+    padding: 0.2em 0.4em;
+    cursor: pointer;
+    &:last-child {
+    margin-right: 0;
+    }
+    &.selected {
+      background-color:#6F4926;
+      color: antiquewhite;
+    }
+  }
+}
+#tags2 {
+  font-family: Manrope;
+  font-style: normal;
+  font-size: 0.8em;
+  color: #6F4926;
+  margin: 0em 0em 2em 0em;
   text-align: center;
   .filter{
     margin-right: 0.3em;
