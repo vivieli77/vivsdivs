@@ -133,6 +133,58 @@ body {
       }
     }
   }
+  .projects-container{
+    columns: 2;
+    column-gap: 4em;
+    .projects {
+      font-family: Manrope;
+      font-style: normal;
+      color: #6F4926;
+      font-size: 0.95em;
+      h2{
+        a{
+          text-decoration: none;
+          font-family: Playfair Display;
+          font-style: normal;
+          color: #6F4926;
+          font-size: 1.4em;
+        } 
+        margin: 0.5em 0 0.25em 0;
+      }
+      .date {
+        margin-bottom: 0.5em;
+      }
+      margin-bottom: 3em;
+      &:last-child {
+        margin-bottom: 0em;
+      }
+      break-inside: avoid;
+      img {
+        max-width: 100%;
+      }
+      .iframe-container {
+        overflow: hidden;
+        // 16:9 aspect ratio
+        padding-top: 56.25%;
+        position: relative;
+      }
+      .iframe-container-2 {
+        overflow: hidden;
+        // 4:3 aspect ratio
+        padding-top: 75%;
+        position: relative;
+      }
+       
+      iframe {
+         border: 0;
+         height: 100%;
+         left: 0;
+         position: absolute;
+         top: 0;
+         width: 100%;
+      }
+    }
+  }
 }
 #text {
   color: #6F4926;
