@@ -17,4 +17,9 @@ Join my <a class="bloglink" href="https://discord.gg/AA2pvSU">Discord server</a>
 
 <br>
 <img class="smallblogimage" src="/assets/blobsuggestive.png">
-<div class="caption">Suggestive <b>:blobergine:</b> and <b>:blobpeach:</b>.
+<div class="caption">Suggestive <b>:blobergine:</b> and <b>:blobpeach:</b>.</div>
+
+<br>
+<img class="smallblogimage" src="/assets/basicbasket.png">
+<div class="caption">Basic emotions for basic fruits, including <b>:blobapple:</b>, <b>:blobpear</b>, <b>:blobanana:</b>, <b>:blobstrawberry:</b>, and <b>:bloberry:</b>.</div>
+
