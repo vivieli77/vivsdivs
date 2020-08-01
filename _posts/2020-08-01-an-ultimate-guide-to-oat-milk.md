@@ -21,7 +21,7 @@ Starch gelatinization explains exactly why my first batch of oat milk came out g
  
 Essentially, you'll want to **optimize the cold environment** while making oat milk to avoid the onset of gelatinization. For me, this optimization looks like refrigerating all ingredients for at least a couple hours before blending and straining—especially the water and sweetener (I use three soaked medjool dates). In a similar vein, I keep my blending duration to a minimum: 5-10 second increments, with 10 seconds of "rest time" for the blades in between. I strain as quickly as possible to get my milk back in the fridge, and I also cool my hands down with ice water before working.
  
-That's it! Really. You can play with the thickness by changing the ratio of oats to water (though I'd say to proceed with caution—adjust this little by little). Achieving smooth, creamy, amd fully non-slimy oat milk was truly a cathartic experience for me. However, despite the satisfaction of this success, I continued to look beyond and climb to new heights. Next stop: flavored milk!
+That's it! Really. You can play with the thickness by changing the ratio of oats to water (though I'd say to proceed with caution—adjust this little by little). Achieving smooth, creamy, and fully non-slimy oat milk was truly a cathartic experience for me. However, despite the satisfaction of this success, I continued to look beyond and climb to new heights. Next stop: flavored milk!
 <br>
 <br>
 <h2 class="subtitle">Flavored milk</h2>
@@ -48,7 +48,7 @@ Flavors I haven't tried (but you definitely should) include black sesame milk an
 <br>
 <br>
 <h2 class="subtitle">What to do with oat pulp</h2>
-Maybe you now have show-stopping lavender oat milk, but you're still staring at the leftover pile of oat pulp beside it. Fear not! This slightly slimy glob is actually high nutritious and easily incorporated into a variety of recipes. I've seen people utilize this pulp in dishes from cookies (only for those who eat gluten or have access to a gluten-free baking flour mix, usually!) to guacamole, but I usually prefer to throw it in as an addition to my pancake and brownie recipes.
+Maybe you now have show-stopping lavender oat milk, but you're still staring at the leftover pile of oat pulp beside it. Fear not! This slightly slimy glob is actually highly nutritious and easily incorporated into a variety of recipes. I've seen people utilize this pulp in dishes from cookies (only for those who eat gluten or have access to a gluten-free baking flour mix, usually!) to guacamole, but I usually prefer to throw it in as an addition to my pancake and brownie recipes.
  
 Here's my brownie recipe. It's food processor-friendly!
 ### Ingredients:
@@ -76,6 +76,6 @@ For pancakes, adding in oat pulp is even more lax. Add it to your current recipe
 <h2 class="subtitle">Additional notes</h2>
 While this homemade oat milk is amazing cold and at room temperature, it'll still cook up when heated. This means no steamy, creamy lattes unless you add stabilizers that prevent gelatinization. The good news is that most store-bought oat milk brands use stabilizers, so I frequently make myself hot matcha lattes with Trader Joe's oat milk instead.
  
-On the other hand, there *is* a scenario where homemade oat milk is preferable to its store-bought counterpart, namely oat yogurt. Whereas we're avoiding gelatinization while making oat milk, we actually take advantage oat starch gelatinization while making oat yogurt. With most non-dairy milks (almond, cashew, soy), we usually need a thickener to give the yogurt structure, whether it be pectin, agar-agar, or another gelatinous agent. However, this thickening property of oats is built in! Homemade oat yogurt follows effectively the same process as oat milk, other than that you don't have to keep anything cold. The strained milk mix is strained on the stove right after, anyway! I use this <a class="bloglink" href="https://myfermentedfoods.com/how-make-vegan-yogurt/">recipe</a>, and it's continuously served me well.
+On the other hand, there *is* a scenario where homemade oat milk is preferable to its store-bought counterpart, namely oat yogurt. Whereas we're avoiding gelatinization while making oat milk, we actually take advantage of oat starch gelatinization while making oat yogurt. With most non-dairy milks (almond, cashew, soy), we usually need a thickener to give the yogurt structure, whether it be pectin, agar-agar, or another gelatinous agent. However, this thickening property of oats is built in! Homemade oat yogurt follows effectively the same process as oat milk, other than that you don't have to keep anything cold. The strained milk mix is strained on the stove right after, anyway! I use this <a class="bloglink" href="https://myfermentedfoods.com/how-make-vegan-yogurt/">recipe</a>, and it's continuously served me well.
  
 So, this is it. Oat my goodness! I look forward to the new heights that you'll bring this information to—new innovative techniques, visionary flavors, and groundbreaking recipes and applications. Wishing you my best :)
