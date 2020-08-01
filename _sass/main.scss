@@ -376,3 +376,13 @@ body::-webkit-scrollbar-thumb {
     color: #6F4926;
   }
 }
+.blogimages{
+  display: inline;
+  text-align: center;
+  margin: auto;
+  img {
+    display: inline;
+    width: 20vw;
+    padding: 0em 1em 0.5em 1em;
+  }
+}
