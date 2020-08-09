@@ -49,25 +49,42 @@ Flavors I haven't tried (but you definitely should) include black sesame milk an
 <br>
 <h2 class="subtitle">What to do with oat pulp</h2>
 Perhaps you now have show-stopping lavender oat milk, but you're still staring at the leftover pile of oat pulp beside it. Fear not! This slightly slimy glob is actually highly nutritious and easily incorporated into a variety of recipes. I've seen people utilize this pulp in dishes from cookies (only for those who eat gluten or have access to a gluten-free baking flour mix, usually) to guacamole, but I usually prefer to throw it in pancake and brownie recipes.
- 
 Here's my brownie recipe. It's food processor-friendly!
-### Ingredients:
-* oat pulp!
-* **3** bananas (or another sweetener)
-* **2** eggs
-* **¼ cup** oil (coconut, olive, etc.)
-* **½ cup** nut butter (I use peanut butter powder!)
-* **1 tsp** vanilla extract
-* **1 tsp** instant coffee powder
-* **1 tsp** baking powder
-* **1 tsp** cinnamon
-* **¼ tsp** salt
-* **1 cup** oat flour
-* **1 cup** almond flour
 
-### Instructions:
-1. Blend or mix it all together!
-1. Bake at 350˚F for 25-30 min.
+<div class="recipe">
+<div class="texty">
+
+<h3>Ingredients:</h3>
+<ul>
+    <li>oat pulp!</li>
+    <li><b>3</b> bananas (or another sweetener)</li>
+    <li><b>2</b> eggs</li>
+    <li><b>¼ cup</b> oil (coconut, olive, etc.)</li>
+    <li><b>½ cup</b> nut butter (I use peanut butter powder!)</li>
+    <li><b>1 tsp</b> vanilla extract</li>
+    <li><b>1 tsp</b> instant coffee powder</li>
+    <li><b>1 tsp</b> baking powder</li>
+    <li><b>1 tsp</b> cinnamon</li>
+    <li><b>¼ tsp</b> salt</li>
+    <li><b>1 cup</b> oat flour</li>
+    <li><b>1 cup</b> almond flour</li>
+</ul>
+
+<h3>Instructions:</h3>
+<ol>
+    <li>Blend or mix it all together!</li>
+    <li>Bake at 350˚F for 25-30 min.</li>
+</ol>
+</div>
+
+<div class="image">
+<img class="blogimage20" src="/assets/brownies.jpg">
+<div class="caption">The finished product (brownies!!)</div>
+<br>
+</div>
+</div>
+
+
 If you make slight adjustments to the ratio (such as using ¼ cup sweetener instead of bananas), don't sweat it! I've found that this recipe is extremely forgiving. In fact, you could hike the amount of flour and nut butter to make brownie-cookies instead. My winged attempt turned out amazing, just like the sandwich cookies from ice cream sandwiches.
  
 For pancakes, adding in oat pulp is even more lax. Supplement your current recipe with this pulp for a fiber boost!

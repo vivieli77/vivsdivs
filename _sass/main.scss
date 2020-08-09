@@ -314,6 +314,7 @@ body {
 }
 .post.full .date {
   margin-bottom: 2em;
+  font-style: normal;
 }
 body::-webkit-scrollbar {
     width: 10px;               /* width of the entire scrollbar */
@@ -340,6 +341,12 @@ body::-webkit-scrollbar-thumb {
 .subtitle {
   font-family: Playfair Display;
   font-style: normal;
+}
+.subtitle2 {
+  font-family: Playfair Display;
+  font-style: italic;
+  color: #d6b890;
+  margin-bottom: 0em;
 }
 .blogimage {
   width: 50vw;
@@ -385,4 +392,29 @@ body::-webkit-scrollbar-thumb {
     width: 20vw;
     padding: 0em 1em 0.5em 1em;
   }
+}
+.blogimage20 {
+  width: 25vw;
+  display: block;
+  margin: auto;
+}
+.recipe {
+  display: flex;
+  align-items: center;
+  max-width: 70em;
+  margin: auto;
+  flex: 1 0 auto;
+  padding: 1em 1em 0em 1em;
+  .caption {
+    padding: 1em 0em 0em 0em;
+  }
+  .image {
+    padding: 1em 0em 0em 3em;
+    margin: auto;
+  }
+}
+
+.twitter-tweet {
+    width: 40% !important;
+    margin: auto;
 }
