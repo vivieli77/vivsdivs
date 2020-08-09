@@ -213,7 +213,7 @@ Absolutely. They've been very actively working towards that. Their goals as a co
 
 <h2 class="subtitle">Q: Is this diversity something that most tech companies are starting to work toward, or is Netlify still a standout in this regard?</h2>
 <br>
-I think they're a standout. I interviewed with quite a few companies when the pandemic hit, where I would be the first woman on the team, or one of five out of 40. Granted, there are more companies that are being more intentional about it, but there are still plenty that are like, "Hey, will you teach us how to be better?" I appreciate that they want to fix it, but you can't just ask your one person who's different to get more different people. You have to hire someone who is a specialist, and you have to be more intentional about it. If you put that responsibility on the underrepresented members of your team, that's an extra job for them to do in addition to the job they were hired for. so, It's still a mixed bag.
+I think they're a standout. I interviewed with quite a few companies when the pandemic hit, where I would be the first woman on the team, or one of five out of 40. Granted, there are more companies that are being more intentional about it, but there are still plenty that are like, "Hey, will you teach us how to be better?" I appreciate that they want to fix it, but you can't just ask your one person who's different to get more different people. You have to hire someone who is a specialist, and you have to be more intentional about it. If you put that responsibility on the underrepresented members of your team, that's an extra job for them to do in addition to the job they were hired for. So, it's still a mixed bag.
 <br>
 <br>
 
