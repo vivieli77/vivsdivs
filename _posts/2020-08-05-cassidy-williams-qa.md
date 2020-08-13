@@ -132,6 +132,11 @@ So yeah, experiment, build a community, and don't be afraid to ask questions.
 <br>
 <br>
 
+<img class="blogimage20" src="/assets/cassidy.jpg">
+<br>
+<div class="caption">Cassidy and one of her mechanical keyboards! (Source: Cassidy Williams)</div>
+
+
 <h1 class="subtitle2">AUG 5, 2020<h1>
 <h2 class="subtitle">Q: Give me a brief life update! How have you been since November 2019?</h2>
 <br>
