@@ -21,7 +21,6 @@ nav {
     margin: 40px 15px;
   }
 }
-
 html, body {
   height: 100%;
   margin: 0;
@@ -251,7 +250,7 @@ body {
   margin: auto;
   padding: 2em;
 }
-.kevin {
+.styled-heading {
   text-align: center;
   font-size: 3.2rem;
   font-family: Playfair Display;
@@ -413,7 +412,6 @@ body::-webkit-scrollbar-thumb {
     margin: auto;
   }
 }
-
 .twitter-tweet {
     width: 40% !important;
     margin: auto;
@@ -421,4 +419,65 @@ body::-webkit-scrollbar-thumb {
 hr {
   border: 2px solid #d6b890;
   margin: 4em 0em;
+}
+#mobile-nav { 
+  display: none;
+  position: relative;
+  margin: 2em 0em 0em 0em;
+  padding-bottom: 1em;
+  #myLinks { 
+    display: none; 
+    font-size: 1.3rem;
+    padding: 1em;
+    .pages {
+      margin: 0em;
+      padding: 0.5em;
+    }
+  }
+  a { display: block; }
+  a.icon { 
+    position: absolute;
+    right: 0;
+    display: block;
+    top: 0; 
+    color: #6F4926;
+    margin: 2em 2.5em;
+    i { font-size: 2em; }
+  }
+  a:hover { background-color: #d6b890; }
+  #logo { background-color: antiquewhite; }
+  a.icon:hover {
+    background-color: antiquewhite;
+    color: #9c7551;
+  }
+}
+@media only screen and (max-width: 600px) {
+  #home { 
+    display: inline; 
+    padding: 1em;
+    #text { 
+      margin: 2rem 1rem 1rem 2rem;
+      h1 {
+        font-size: 3rem;
+      }
+    }
+    #image { margin: 4em;}
+    #abtimage {margin: 4em;}
+  }
+  .recipe {
+    display: inline; 
+    .image { padding: 1em 0em 0em 0em; }
+  }
+  .twitter-tweet { width: 90% !important; }
+  .blogimage { width: 80vw; }
+  .smallblogimage { width: 80vw; }
+  .blogimage20 { width: 80vw; }
+  .blogimages img {width: 70vw;}
+  #nav { display: none; }
+  #mobile-nav { display: inline; }
+  .portfolio-filter { margin: 0; }
+  #portfolio .projects-container{ columns: 1; }
+  #portfolio .poetry-container{ columns: 1; }
+  #portfolio .journalism-container{ columns: 1; }
+  #gallery{ columns: 1; }
 }
