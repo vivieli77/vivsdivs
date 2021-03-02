@@ -452,17 +452,24 @@ hr {
   }
 }
 @media only screen and (max-width: 600px) {
+  html, body { overflow-x: hidden !important; }
+  #home-container {
+    overflow-x: hidden !important;
+    max-width: 100% !important;
+  }
   #home { 
     display: inline; 
     padding: 1em;
+    overflow-x: hidden !important;
+    max-width: 100% !important;
     #text { 
       margin: 2rem 1rem 1rem 2rem;
       h1 {
-        font-size: 3rem;
+        font-size: 2.7rem;
       }
     }
-    #image { margin: 4em;}
-    #abtimage {margin: 4em;}
+    #image { margin: 4em; }
+    #abtimage { margin: 4em; }
   }
   .recipe {
     display: inline; 
